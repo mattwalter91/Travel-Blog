@@ -1,6 +1,6 @@
 ---
 layout: post
 title:  The Plan Test
-date:   2018-08-17
+date:   2018-08-17 20:21:00
 ---
-Day 1
+#Day 1
