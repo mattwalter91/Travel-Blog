@@ -5,10 +5,7 @@ layout: default
   <div class="inner">
     <article class="entry-wrap">
       <div class="entry-content">
-				<p>{{ post }}</p>
-				<pre>{{ post | json }}</pre>
-				<pre>{{ content | json }}</pre>
-				<pre>{{ this | json }}</pre>
+				<pre>{{ page | json }}</pre>
         {{ content }}
       </div>
       {% if site.disqus.shortname %}
