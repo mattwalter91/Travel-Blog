@@ -11,3 +11,14 @@
 .initial-content{
 	padding-top: 20px;
 }
+
+.entry-content{
+	.postTitle{
+		border-bottom: 1px solid;
+	}
+	.date{
+		border-bottom: 1px solid;
+		margin-bottom: 15px;
+		padding: 10px 0;
+	}
+}
