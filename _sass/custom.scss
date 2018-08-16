@@ -4,8 +4,23 @@
 	object-fit: cover;
 }
 
-.site-title{
+.inner{
+	max-width: unset;
 	padding: 5px 5vw;
+	.title-area{
+		display: flex;
+		flex-wrap: wrap;
+		.site-title{
+			flex-grow: 1;
+			padding: 0;
+		}
+		#location{
+			flex-grow: 1;
+			line-height: 50px;
+			text-align: right;
+			margin: 0;
+		}
+	}
 }
 
 .initial-content{
