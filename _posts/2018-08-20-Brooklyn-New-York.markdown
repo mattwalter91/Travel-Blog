@@ -19,5 +19,6 @@ As we got in so late, we slept in on Saturday morning as best we could - due to 
 After a lie in on Sunday, we headed for a walk to Williamsburg where we wanted to try a couple of vegan resturants which have been highly recommened online. Sadly it was raining a bit so the weather was not the greatest to be walking in, but it was lovely to be outside in the slightly cooler weather than Saturday! When we got to Williamsburg we went to McCarren Park, which would have been a great spot to sit and eat lunch, but the rain put a little dampener on that one! As we wandered past the Sunday Baseball players in the park, dodging any ball which looked like they were heading our way, Nikki noticed a Starbucks just across the street from park and was straight in there as she craved a cup of Tea! Once Nikki had a tea in her hand, we headed out in the still pouring rain and wandered round the streets looking at various shops. We then made our way towards the vegan pizza shop - Screamer's Pizza, and had pizza slices the size of our heads for lunch!! Once we were fuelled up on pizza we headed back to the flat where enroute we stopped by Dunwell Doughnuts for some yummy doughnuts!
 
 ![pizza](/assets/img/brooklyn/pizza.jpg)
+![dunwell](/assets/img/brooklyn/dunwell.jpg)
 
 So next time we update we shall be in Playa Del Carmen, Mexico - where we shall be for 5 days.
