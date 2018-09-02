@@ -3,8 +3,8 @@ $(function(){
 });
 
 function setTime(){
-	let location = "Isla Mujeres, Mexico";
-	let tz = "America/Cancun";
+	let location = "Mexico City, Mexico";
+	let tz = "America/Mexico_City";
 	var time = moment().tz(tz).format('h:mm a');
 	$('#location').html('Current Location: '+location+' - '+time);
 }
