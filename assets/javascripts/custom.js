@@ -3,8 +3,8 @@ $(function(){
 });
 
 function setTime(){
-	let location = "San Francisco, USA";
-	let tz = "America/Los_Angeles";
+	let location = "Auckland, New Zealand";
+	let tz = "Pacific/Auckland";
 	var time = moment().tz(tz).format('h:mm a');
 	$('#location').html('Current Location: '+location+' - '+time);
 }
