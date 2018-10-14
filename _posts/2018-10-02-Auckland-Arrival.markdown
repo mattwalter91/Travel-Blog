@@ -10,18 +10,18 @@ By Tuesday Nikki had heard from an agency so was going to an interview on Wednes
 
 Friday we went whale/dolphin watching, which was great, but sadly we saw no whales!
 
-![auckland5](/assets/img/auckland/auckland5.jpg)
+![auckland5](/assets/img/auckland1/auckland5.jpg)
 
 Saturday we headed to the Ferry Terminal where we got a ferry to Rangitoto Island. We spent the morning walking around the island and hiked up the 850ft volcano. Once at the summit, the views of Auckland and all the surrounding islands were incredible.
 
-![auckland1](/assets/img/auckland/auckland1.jpg)
-![auckland4](/assets/img/auckland/auckland4.jpg)
+![auckland1](/assets/img/auckland1/auckland1.jpg)
+![auckland4](/assets/img/auckland1/auckland4.jpg)
 
 Sunday we then made another move to a new apartment, where we'd be til Monday 1st October, again just a short walk from the city centre.
 
 The next week was fairly uneventful, as we spent every day working! However, Saturday quickly came around and we caught the 15 minute ferry to Devonport. We climbed the small 87m mountain known as Mount Victoria, before spending a bit of time in the town to get some food and look around the shops. Sunday we visited a local park/lake and enjoyed a more chilled afternoon before another hard week's work ahead!
 
-![auckland2](/assets/img/auckland/auckland2.jpg)
-![auckland3](/assets/img/auckland/auckland3.jpg)
+![auckland2](/assets/img/auckland1/auckland2.jpg)
+![auckland3](/assets/img/auckland1/auckland3.jpg)
 
 We them moved again on Monday (Oct 1st), and headed to New Lynn. This accommodation is a bit further out of town, and Nikki will take a 45 min train to work now! We're here for the month of October before moving back into the city again. It's nice being in quieter area, and being able to settle in for a longer period of time! We'll use our time here as an opportunity to hire a car and travel a bit further afield some weekends.
