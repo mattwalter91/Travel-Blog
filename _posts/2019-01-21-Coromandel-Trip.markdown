@@ -19,7 +19,7 @@ After a lovely stay at the Little Farm Cottage, we packed up and made our way 60
 
 ![day13-1](/assets/img/northland/day13/1.jpg)
 ![day13-2](/assets/img/northland/day13/2.jpg)
-![day13-3](/assets/img/northland/day13/4.jpg)
+![day13-3](/assets/img/northland/day13/3.jpg)
 ![day13-4](/assets/img/northland/day13/4.jpg)
 
 So today marks the last day of the Northland trip, today we had to make sure we were up early to get back to the city to check the car in for 12pm, and with a 2 hour journey ahead we needed to allow time for traffic. Luckily we had a pretty smooth drive home as the route was on highways, once we had checked the car in, we caught an Uber to our apartment at Star Queens, for the night just on Queen street, although small the apartment was in a good location, ready for another move tomorrow when we head to the Harbour and catch a Fuller ferry over to Waiheke, for our the next 3 days, so lots of exciting things to come but Saturday has been a pretty quiet one mainly as we have moved around alot and it is nice to spend the afternoon in when it's a very warm 25C.
